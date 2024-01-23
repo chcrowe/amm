@@ -4,3 +4,6 @@
   right: -500px;
   padding: 50px;
 }
+
+#transactions th { text-align: center; }
+.tableAmount {text-align:right;}
